@@ -1,0 +1,26 @@
+C:\Users\Пользователь\Desktop\Учебная практика (осень) 3 курс\2 неделя\4 задание\Zadania 4.1 (form)\Zadania 4.1 (form)\bin\Debug\Zadania 4.1 (form).exe.config
+C:\Users\Пользователь\Desktop\Учебная практика (осень) 3 курс\2 неделя\4 задание\Zadania 4.1 (form)\Zadania 4.1 (form)\bin\Debug\Zadania 4.1 (form).exe
+C:\Users\Пользователь\Desktop\Учебная практика (осень) 3 курс\2 неделя\4 задание\Zadania 4.1 (form)\Zadania 4.1 (form)\bin\Debug\Zadania 4.1 (form).pdb
+C:\Users\Пользователь\Desktop\Учебная практика (осень) 3 курс\2 неделя\4 задание\Zadania 4.1 (form)\Zadania 4.1 (form)\obj\Debug\Zadania 4.1 (form).csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\Учебная практика (осень) 3 курс\2 неделя\4 задание\Zadania 4.1 (form)\Zadania 4.1 (form)\obj\Debug\Zadania 4.1 (form).csproj.SuggestedBindingRedirects.cache
+C:\Users\Пользователь\Desktop\Учебная практика (осень) 3 курс\2 неделя\4 задание\Zadania 4.1 (form)\Zadania 4.1 (form)\obj\Debug\Zadania_4._1__form_.Form1.resources
+C:\Users\Пользователь\Desktop\Учебная практика (осень) 3 курс\2 неделя\4 задание\Zadania 4.1 (form)\Zadania 4.1 (form)\obj\Debug\Zadania_4._1__form_.Properties.Resources.resources
+C:\Users\Пользователь\Desktop\Учебная практика (осень) 3 курс\2 неделя\4 задание\Zadania 4.1 (form)\Zadania 4.1 (form)\obj\Debug\Zadania 4.1 (form).csproj.GenerateResource.cache
+C:\Users\Пользователь\Desktop\Учебная практика (осень) 3 курс\2 неделя\4 задание\Zadania 4.1 (form)\Zadania 4.1 (form)\obj\Debug\Zadania 4.1 (form).csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\Учебная практика (осень) 3 курс\2 неделя\4 задание\Zadania 4.1 (form)\Zadania 4.1 (form)\obj\Debug\Zadania 4.1 (form).exe
+C:\Users\Пользователь\Desktop\Учебная практика (осень) 3 курс\2 неделя\4 задание\Zadania 4.1 (form)\Zadania 4.1 (form)\obj\Debug\Zadania 4.1 (form).pdb
+C:\Users\Пользователь\Desktop\Учебная практика (осень) 3 курс\2 неделя\4 задание\Zadania 4.1 (form)\Zadania 4.1 (form)\obj\Debug\Zadania_4._1__form_.все_задание.resources
+C:\Users\Пользователь\Desktop\Учебная практика (осень) 3 курс\2 неделя\4 задание\Zadania 4.1 (form)\Zadania 4.1 (form)\obj\Debug\Zadania_4._1__form_.задание_2.resources
+C:\Users\Пользователь\Desktop\Учебная практика (осень) 3 курс\2 неделя\4 задание\Zadania 4 (form)\Zadania 4.1 (form)\bin\Debug\Zadania 4.1 (form).exe.config
+C:\Users\Пользователь\Desktop\Учебная практика (осень) 3 курс\2 неделя\4 задание\Zadania 4 (form)\Zadania 4.1 (form)\bin\Debug\Zadania 4.1 (form).exe
+C:\Users\Пользователь\Desktop\Учебная практика (осень) 3 курс\2 неделя\4 задание\Zadania 4 (form)\Zadania 4.1 (form)\bin\Debug\Zadania 4.1 (form).pdb
+C:\Users\Пользователь\Desktop\Учебная практика (осень) 3 курс\2 неделя\4 задание\Zadania 4 (form)\Zadania 4.1 (form)\obj\Debug\Zadania 4.1 (form).csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\Учебная практика (осень) 3 курс\2 неделя\4 задание\Zadania 4 (form)\Zadania 4.1 (form)\obj\Debug\Zadania 4.1 (form).csproj.SuggestedBindingRedirects.cache
+C:\Users\Пользователь\Desktop\Учебная практика (осень) 3 курс\2 неделя\4 задание\Zadania 4 (form)\Zadania 4.1 (form)\obj\Debug\Zadania_4._1__form_.Form1.resources
+C:\Users\Пользователь\Desktop\Учебная практика (осень) 3 курс\2 неделя\4 задание\Zadania 4 (form)\Zadania 4.1 (form)\obj\Debug\Zadania_4._1__form_.Properties.Resources.resources
+C:\Users\Пользователь\Desktop\Учебная практика (осень) 3 курс\2 неделя\4 задание\Zadania 4 (form)\Zadania 4.1 (form)\obj\Debug\Zadania_4._1__form_.все_задание.resources
+C:\Users\Пользователь\Desktop\Учебная практика (осень) 3 курс\2 неделя\4 задание\Zadania 4 (form)\Zadania 4.1 (form)\obj\Debug\Zadania_4._1__form_.задание_2.resources
+C:\Users\Пользователь\Desktop\Учебная практика (осень) 3 курс\2 неделя\4 задание\Zadania 4 (form)\Zadania 4.1 (form)\obj\Debug\Zadania 4.1 (form).csproj.GenerateResource.cache
+C:\Users\Пользователь\Desktop\Учебная практика (осень) 3 курс\2 неделя\4 задание\Zadania 4 (form)\Zadania 4.1 (form)\obj\Debug\Zadania 4.1 (form).csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\Учебная практика (осень) 3 курс\2 неделя\4 задание\Zadania 4 (form)\Zadania 4.1 (form)\obj\Debug\Zadania 4.1 (form).exe
+C:\Users\Пользователь\Desktop\Учебная практика (осень) 3 курс\2 неделя\4 задание\Zadania 4 (form)\Zadania 4.1 (form)\obj\Debug\Zadania 4.1 (form).pdb
